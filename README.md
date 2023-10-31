@@ -4,7 +4,7 @@ Usernames and passwords are stored in files between runs
 
 Commands for client:
 
-login UserID Password \n
+login UserID Password  
 newuser UserID Password \n
 send all message \n
 send UserID message \n
